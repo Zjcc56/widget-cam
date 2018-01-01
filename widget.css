@@ -41,3 +41,20 @@
     overflow:auto;
     max-height:150px;
 }
+
+#com-chilipeppr-widget-cam .videoWrapper {
+    background-color: black;
+    position:relative;
+    margin:0;
+    padding:0;
+}
+
+.cam-img {
+    height:41px;
+    width:50px;
+    float:left;
+    margin-right:10px;
+    background-size: cover;
+    border-radius: 4px;
+    background-image:url('cam-generic3.png');
+}
